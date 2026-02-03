@@ -7,7 +7,7 @@ Available to order [here.](https://www.makertech3d.com/pages/proforge-5)
 # Features
 	•	Tool-Changing Mechanism: Swap up to 5 tools in a single print.
 	•	Large Build Volume: 500mm(x) x 400mm(y) x 500mm(z).
-  	• Print heads up to 300C. Bed up to 120C. Chamber up to 50C (at room temp).
+  	• 	Print heads up to 300C. Bed up to 120C. Chamber up to 50C (at room temp).
 	•	Multi-Material Compatibility: Support for PLA, ABS, PETG, flexible materials and others.
 	•	Automated nozzle alignment and offset calibration.
 	•	Rapid bed scanning and probing (tapping) via Eddy currrent probe.
