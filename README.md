@@ -45,7 +45,7 @@ Keep children and pets away from the ProForge 5 whilst in operation.
 
 Never disconnect any of the wiring whilst powered on.
 
-Be careful of long hair and loose clothing when operating the ProForge 300.
+Be careful of long hair and loose clothing when operating the ProForge 5.
 
 Immediately shut down the ProForge 5 if an error occurs to prevent damage to the unit or its surroundings.
 
