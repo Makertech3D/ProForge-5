@@ -19,7 +19,7 @@ Available to order [here.](https://www.makertech3d.com/pages/proforge-5)
 
 # ProForge 5 Klipper Firmware Image
 
-The Klipper firmware image is available to download here.
+The Klipper firmware image is available to download [here.](https://drive.google.com/file/d/1g3VlK6uW461eonK6xu36X5FfG2Ro1Mvd/view?usp=share_link)
 
 # ProForge 5 Build Manual
 
