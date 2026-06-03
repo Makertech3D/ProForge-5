@@ -14,6 +14,9 @@ Before fitting the fan shroud, rotate each print head hotend so that the **cable
 
 The fan shroud is secured using an **M4×12mm socket head bolt**, which replaces the existing M4×6mm bolt used to mount the servo. The longer bolt passes through both the fan shroud and the servo mounting point (lower left) simultaneously, clamping both components in a single fixing.
 
+**Note:** 
+After installation, re-run the `EDDY_CAL` macro to recalibrate the eddy current probe.
+
 ![Installation Diagram](https://raw.githubusercontent.com/Makertech3D/ProForge-5/main/3D%20Printed%20Parts/Part%20Cooling%20Fan%20v2/Images/v2%20Fan%20Install.png)
 
 **Hardware required:**
