@@ -1,4 +1,7 @@
-# ProForge 5 — PrusaSlicer Config Bundle
+# ProForge 5 — OrcaSlicer
+[Click here.](https://github.com/Makertech3D/Orca-Slicer-Profiles)
+
+# ProForge 5 — PrusaSlicer
 
 This config bundle provides ready-to-use profiles for the ProForge 5 in PrusaSlicer, including printer settings, filament profiles, and start G-code optimised for the ProForge 5 toolchanger.
 
