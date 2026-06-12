@@ -15,7 +15,7 @@ The fan shroud is secured using an **M4×12mm socket head bolt**, which replaces
 **Note:** 
 After installation, re-run the `EDDY_CAL` macro to recalibrate the eddy current probe.
 
-![Installation Diagram](https://raw.githubusercontent.com/Makertech3D/ProForge-5/main/3D%20Printed%20Parts/Part%20Cooling%20Fan%20v2/Images/v2.1%20Fan%20Install.png)
+![Installation Diagram](https://github.com/Makertech3D/ProForge-5/blob/main/3D%20Printed%20Parts/Part%20Cooling%20Fan%20v2/Images/v2.1%20Fan%20Install.png)
 
 **Hardware required:**
 - 1× M4×12mm socket head bolt *(replaces the existing M4×6mm servo bolt)*
