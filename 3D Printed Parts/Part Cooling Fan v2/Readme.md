@@ -26,4 +26,4 @@ After installation, re-run the `EDDY_CAL` macro to recalibrate the eddy current 
 
 The STL should be oriented in the slicer **exactly as shown** in the image below. Use **support from build plate only** and do not enable supports everywhere, as internal supports are difficult to remove and unnecessary with this orientation.
 
-![Slicer Orientation](https://raw.githubusercontent.com/Makertech3D/ProForge-5/main/3D%20Printed%20Parts/Part%20Cooling%20Fan%20v2/Images/v2.1%20Fan%20Slicer.png)
+![Slicer Orientation](https://raw.githubusercontent.com/Makertech3D/ProForge-5/main/3D%20Printed%20Parts/Part%20Cooling%20Fan%20v2/Images/v2.1%20Slicer.png)
